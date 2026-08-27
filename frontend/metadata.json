@@ -1,0 +1,6 @@
+{
+  "name": "CodeGuard",
+  "description": "Tactile terminal IDE and combat code debugger for mission-critical software and cyber defense simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
